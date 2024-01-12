@@ -1,3 +1,5 @@
+# This is a fork of JS-ARUCO2 to be hosted on github pages for use as a CDN.
+
 # JS-ARUCO2
 
 **js-aruco2** is a fork of [js-aruco](https://github.com/jcmellado/js-aruco) that supports also the ARUCO_MIP_36h12 dictionary and any other ArUco or custom dictionary for square markers. Additionally, this library is ready to be used in NodeJS to recognize markers from FFMPEG video streams and allows to generate markers in SVG format.
